@@ -20,7 +20,7 @@ export function AnimatedTestimonialsDemo() {
                 " aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco " +
                 "laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor" +
                 " in reprehenderit in voluptate velit esse ",
-            name: "Crazy Competition",
+            name: "Crazy Contest",
             designation: "bbbb",
             src: "/2.avif",
         },
@@ -41,7 +41,8 @@ export function AnimatedTestimonialsDemo() {
                 "elit, sed do eiusmod tempor incididunt ut labore et dolore magna" +
                 " aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco " +
                 "laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor" +
-                " in reprehenderit in voluptate velit esse ",            name: "Outstanding Quality",
+                " in reprehenderit in voluptate velit esse ",
+            name: "Crazy Quality",
             designation: "dddd",
             src: "/4.avif",
         },
@@ -51,7 +52,8 @@ export function AnimatedTestimonialsDemo() {
                 "elit, sed do eiusmod tempor incididunt ut labore et dolore magna" +
                 " aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco " +
                 "laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor" +
-                " in reprehenderit in voluptate velit esse ",            name: "Unlimited Fun",
+                " in reprehenderit in voluptate velit esse ",
+            name: "Unlimited Fun",
             designation: "eeee",
             src: "/5.avif",
         },

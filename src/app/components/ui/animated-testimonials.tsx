@@ -2,7 +2,7 @@
 import { motion, AnimatePresence } from "framer-motion";
 import Image from "next/image";
 import { useEffect, useState } from "react";
-import { Alegreya, Koulen } from 'next/font/google';
+import { Alegreya } from 'next/font/google';
 type Testimonial = {
   quote: string;
   name: string;
@@ -15,10 +15,6 @@ const alegreya = Alegreya({
   subsets: ['latin'],
 });
 
-const koulen = Koulen({
-  weight: ['400'],
-  subsets: ['latin'],
-});
 
 export const AnimatedTestimonials = ({
                                        testimonials,
